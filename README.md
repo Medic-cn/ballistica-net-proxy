@@ -18,7 +18,7 @@ The Ballistica Proxy can be deployed on a server, enabling Chinese users to conn
 
 ## Example
 
-Site Example: [v2.nappig.com](https://v2.nappig.com)
+Site Example: [ba.nappig.com](https://ba.nappig.com)
 
 This site is accelerated using Tencent Cloud's next-generation edge computing CDN, has obtained government filing, and is a legal and compliant website with filing number: SuICP备2023020191.
 
@@ -74,7 +74,7 @@ Ballistica代理器可以部署到一台服务器，使中国用户能够通过�
 
 ## 示例
 
-站点示例: [v2.nappig.com](http://v2.nappig.com)
+站点示例: [ba.nappig.com](http://ba.nappig.com)
 
 此站点采用腾讯云新一代边缘计算CDN进行加速访问，已获得政府备案，是合法合规网站，备案号：苏ICP备2023020191
 
